@@ -20,4 +20,5 @@ Hello I am Jay Kim who is studying Data Analysis in South Korea.
 Feel free to contact me if you have any question.
 
 📫 How to reach me: 
+
 email : jkim940313@gmail.com
